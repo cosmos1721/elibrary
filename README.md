@@ -30,3 +30,7 @@ Conclusion: I would actually like to thank the whole team of Techno Club as they
             This gave me motivation to work on my skills.                   
             Despite not being able to cover all my ideas, I'm still happy to be a part of it.
             
+            
+            
+Weblink to access the link: https://techno-elibrary.netlify.app/            
+            
